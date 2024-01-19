@@ -1,0 +1,15 @@
+G:\visual studio projects\hash\sqlstringconverter\bin\Debug\net6.0\sqlstringconverter.exe
+G:\visual studio projects\hash\sqlstringconverter\bin\Debug\net6.0\sqlstringconverter.deps.json
+G:\visual studio projects\hash\sqlstringconverter\bin\Debug\net6.0\sqlstringconverter.runtimeconfig.json
+G:\visual studio projects\hash\sqlstringconverter\bin\Debug\net6.0\sqlstringconverter.dll
+G:\visual studio projects\hash\sqlstringconverter\bin\Debug\net6.0\sqlstringconverter.pdb
+G:\visual studio projects\hash\sqlstringconverter\obj\Debug\net6.0\sqlstringconverter.csproj.AssemblyReference.cache
+G:\visual studio projects\hash\sqlstringconverter\obj\Debug\net6.0\sqlstringconverter.GeneratedMSBuildEditorConfig.editorconfig
+G:\visual studio projects\hash\sqlstringconverter\obj\Debug\net6.0\sqlstringconverter.AssemblyInfoInputs.cache
+G:\visual studio projects\hash\sqlstringconverter\obj\Debug\net6.0\sqlstringconverter.AssemblyInfo.cs
+G:\visual studio projects\hash\sqlstringconverter\obj\Debug\net6.0\sqlstringconverter.csproj.CoreCompileInputs.cache
+G:\visual studio projects\hash\sqlstringconverter\obj\Debug\net6.0\sqlstringconverter.dll
+G:\visual studio projects\hash\sqlstringconverter\obj\Debug\net6.0\refint\sqlstringconverter.dll
+G:\visual studio projects\hash\sqlstringconverter\obj\Debug\net6.0\sqlstringconverter.pdb
+G:\visual studio projects\hash\sqlstringconverter\obj\Debug\net6.0\sqlstringconverter.genruntimeconfig.cache
+G:\visual studio projects\hash\sqlstringconverter\obj\Debug\net6.0\ref\sqlstringconverter.dll
